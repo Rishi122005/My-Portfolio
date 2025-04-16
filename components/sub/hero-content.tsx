@@ -38,7 +38,7 @@ export const HeroContent = () => {
           <span>
             HI{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              I'm
+              I&apos;m
             </span>{" "}
             Rishi
           </span>
