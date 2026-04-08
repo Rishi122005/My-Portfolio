@@ -248,25 +248,32 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "Trading Portfolio Website",
+    title: "cCropCompass: An Intelligent Crop Damage Prediction and Preservation Recommendation System",
     description:
-      'DappRush is a modern, visually dynamic trading website designed to simplify and elevate the user experience in the world of decentralized finance (DeFi). Built with a sleek black, gold, and brown theme, DappRush offers a futuristic and immersive interface featuring glowing cryptocurrency icons and interactive 3D models of popular coins like Bitcoin and Ethereum. These elements not only enhance the visual appeal but also keep users engaged while navigating the platform. With smooth animations and a responsive layout, DappRush caters to both novice and experienced traders, providing real-time market data, intuitive trading tools, and secure blockchain integration. Whether you are tracking market trends or managing your crypto portfolio, DappRush is built to deliver a seamless, tech-forward experience that stands out in the crypto space',
+      "A smart agricultural platform leveraging AI/ML to predict crop damage and recommend optimal preservation techniques based on environmental factors.",
     image: "/projects/project-1.png",
-    link: "https://example.com",
+    link: "https://github.com/Rishi122005",
   },
   {
-    title: "Weather Forecasting ",
+    title: "Finance Tracker",
     description:
-      'I created a weather forecasting app that provides real time weather updates for any location around the world. The app is designed with a user friendly interface and displays key information such as temperature, humidity, wind speed, and weather conditions in a simple and organized manner. It uses reliable weather API data to ensure accurate and timely forecasts. The app is responsive across different devices and offers a smooth experience whether used on desktop or mobile. It is a useful tool for anyone who wants to stay informed about weather changes quickly and efficiently.',
+      "A comprehensive financial dashboard to monitor tracks, budgets, and expenses with interactive visualizations.",
     image: "/projects/project-2.png",
-    link: "https://weather-dashboard-master-kigt1o831-rishi122005s-projects.vercel.app/",
+    link: "https://github.com/Rishi122005",
   },
   {
-    title: "Space Themed Website",
+    title: "Smart Onco — ML Healthcare Analytics",
     description:
-      'My portfolio website is a reflection of my personal and professional journey, showcasing my skills, creativity, and dedication. It includes a detailed About Me section where visitors can learn more about my background, interests, and career goals. The Projects section highlights some of the key work I have done, featuring a variety of practical and creative projects that demonstrate my growth and capabilities. Each project is displayed with relevant details to provide context and insight into the process. The site also includes a Contact Me section, making it easy for anyone to get in touch with me for collaboration, opportunities, or feedback. The overall design is clean, responsive, and easy to navigate, offering a seamless user experience.',
+      "Built an AI-driven application for analyzing medical datasets using Python and Streamlit. Designed data pipelines for preprocessing, validation, and visualization. Ensured reproducibility and robustness of ML models through structured workflows.",
     image: "/projects/project-3.png",
-    link: "https://example.com",
+    link: "https://github.com/Rishi122005",
+  },
+  {
+    title: "Wukeel Saab — Case Management System",
+    description:
+      "Engineered a legal case management platform using React, Node.js, and MySQL. Automated workflows and database operations, improving operational efficiency. Developed modular frontend components and integrated backend APIs.",
+    image: "/projects/project-4.png",
+    link: "https://github.com/Rishi122005",
   },
 ] as const;
 
@@ -305,16 +312,6 @@ export const FOOTER_DATA = [
     title: "About",
     data: [
       {
-        name: "Become my Client",
-        icon: null,
-        link: "https://www.upwork.com/freelancers/~019c99dab419a7bbde",
-      },
-      {
-        name: "Know About me on Upwork",
-        icon: null,
-        link: "https://www.upwork.com/freelancers/~019c99dab419a7bbde",
-      },
-      {
         name: "Contact Me",
         icon: null,
         link: "mailto:codrishiriengs@gmail.com",
@@ -339,5 +336,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/sanidhyy/space-portfolio",
+  sourceCode: "https://github.com/Rishi122005/My-Portfolio",
 };
