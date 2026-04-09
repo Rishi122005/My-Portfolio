@@ -11,8 +11,8 @@ export const ContactUs = () => {
       <div className="w-full max-w-[1200px] px-10 flex flex-col md:flex-row gap-20">
         <div className="md:w-1/2">
           <p className="text-gray-400 font-light text-lg mb-8 leading-relaxed">
-            Let's build something extraordinary together. Whether you have a project in mind, 
-            need technical consulting, or just want to connect, feel free to reach out. I'll get back to you as soon as possible.
+            Let&apos;s build something extraordinary together. Whether you have a project in mind, 
+            need technical consulting, or just want to connect, feel free to reach out. I&apos;ll get back to you as soon as possible.
           </p>
           <div className="space-y-2">
             <h4 className="text-xs uppercase tracking-widest text-gray-500 font-medium">Direct Mail</h4>

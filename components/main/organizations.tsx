@@ -14,7 +14,7 @@ export const Organizations = () => {
           <div className="md:w-1/3 mb-4 md:mb-0">
             <h3 className="text-xl font-medium text-gray-200 font-sans uppercase tracking-tight">Technical Team Member</h3>
             <p className="text-gray-500 font-mono text-sm mt-2">Nov 2024 – Feb 2026</p>
-            <p className="text-gray-600 font-mono text-xs mt-1 tracking-tight">Associate (Sep '25 – Feb '26)</p>
+            <p className="text-gray-600 font-mono text-xs mt-1 tracking-tight">Associate (Sep &apos;25 – Feb &apos;26)</p>
           </div>
           <div className="md:w-2/3">
             <h4 className="text-lg font-bold text-white mb-4">CODENEX CLUB SRMIST</h4>
